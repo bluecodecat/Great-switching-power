@@ -9,9 +9,8 @@
 
 ***
 
-* 《开关电源设计》-
-* 《精通开关电源》-
-* 
+* 《开关电源设计(第三版)》-
+* 《精通开关电源(第二版)》-
 
 # 工具
 
@@ -49,7 +48,9 @@
 
 ### 国内论坛
 
+[21世纪电源网](http://www.21dianyuan.com/) -
 
+[电源网](http://www.dianyuan.com/) -
 
 ### 国外论坛
 
@@ -72,6 +73,10 @@
 
 
 ## 国外
+
+[德州仪器(简称TI)](http://www.ti.com.cn/) -
+
+[Power Integrations(简称PI)](https://ac-dc.powerint.cn/zh-hans/#) -
 
 
 
